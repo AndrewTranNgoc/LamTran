@@ -1,5 +1,5 @@
-level intro 2:
+//level intro 2://
 git branch bugFix
 git checkout bugFix
-*ANOTHER WAY: 
+//*ANOTHER WAY:*//
 git checkout -b bugFix
