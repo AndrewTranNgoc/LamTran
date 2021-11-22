@@ -1,4 +1,4 @@
-level mixed 2
+//level mixed 2//
 git rebase -i Head~2
 //Ordering the commits as C3, C2//
 git commit --amend
