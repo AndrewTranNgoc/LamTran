@@ -1,4 +1,4 @@
 //level mixed1://
 git rebase -i main
-//Ordering commit as C4//
+//Ordering the commit as C4//
 git rebase bugFix main
