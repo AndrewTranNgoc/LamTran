@@ -1,7 +1,7 @@
 //level mixed 2//
-git rebase -i Head~2
+git rebase -i HEAD~2
 //Ordering the commits as C3, C2//
 git commit --amend
-git rebase -i Head~2 
+git rebase -i HEAD~2 
 //Ordering the commits as C2'', C3'//
 git rebase caption main
