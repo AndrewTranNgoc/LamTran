@@ -1,0 +1,6 @@
+//level remote7://
+git clone
+git fakeTeamWork
+git commit
+git pull --rebase
+git push
